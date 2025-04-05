@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jp-abdu&radius=16&theme=gotham&area=true&order=5" height="320" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jp-abdu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jp-abdu&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=gotham&hide_border=false&order=2" height="130" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center"><strong>FERRAMENTAS</strong></div> <br>
 
 <div align="center">
